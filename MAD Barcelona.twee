@@ -1,0 +1,1679 @@
+:: StoryTitle
+MAD Barcelona
+
+
+:: StoryData
+{
+  "ifid": "6F40D3DC-D453-4823-BAE1-1373A7E3568C",
+  "format": "Harlowe",
+  "format-version": "3.3.4",
+  "start": "The Start",
+  "zoom": 1
+}
+
+
+:: "...Okay, I guess I could go there." {"position":"1000,3525","size":"100,100"}
+"Ah... Sure! Let me do some tests on you and then I'll let you be on your way to wherever you want to go!"
+
+[[Proceed with the tests]]
+
+
+:: "A fucking commie" {"position":"650,5600","size":"100,100"}
+"He seemed like a fucking commie", you think. Even if you don't like him, he at least gave you some interesting information of what could have happened to //Akinola//. And what he said did make sense to an extent, at least the motive for the murder. Now, let's see if his suspicions were right.
+
+Where do you think you should go now?
+
+[[Let's see what the anarchists are up to]]
+[[Let's check up on the catalanist inventor]]
+
+
+:: "A real working class hero" {"position":"1050,5600","size":"100,100"}
+"He seemed like a real working class hero", you think. You wish he was your president, he clearly seems to know what he's doing. He also gave you some interesting information of what could have happened to //Akinola//. And what he said did make sense, at least the motive for the murder. Now, let's see if his suspicions were right.
+
+Where do you think you should go now?
+
+[[Let's see what the anarchists are up to]]
+[[Let's check up on the catalanist inventor]]
+
+
+:: "Actually, I'm feeling pretty well" {"position":"700,2750","size":"100,100"}
+-"That's great! We were actually surprised to see how well your body handled being part of an explosion as big as this one."
+
+[["I have some questions"]]
+
+
+:: "An interesting person" {"position":"925,5600","size":"100,100"}
+"He seemed like an interesting person", you think. You may or may not agree with him, but he does have a ''vibe'' to him. He also gave you some realistic information of what could have happened to //Akinola//. And what he said did make sense to an extent, at least the motive for the murder. Now, let's see if his suspicions were right.
+
+Where do you think you should go now?
+
+[[Let's see what the anarchists are up to]]
+[[Let's check up on the catalanist inventor]]
+
+
+:: "An inventor told me to visit the CVM, and I found papers pointing to this location {"position":"750,12300","size":"100,100"}
+-"Fascinating. You see, Crowley, I think you're here for a reason.", he starts to circle around you. "Call it destiny, call it God's will, or call it luck, but you've gone through an incredible amount of hardships and you're barely scratched. I don't think that's just a coincidence. From what I know, you were part of a big explosion and you're walking around like nothing happened, and finding this place in less than a day? Now, that's almost divine luck."
+
+[["Now that you mention it, I have been pretty lucky.]]
+[["You're utterly mad."]]
+
+
+:: "And what's that?" {"position":"925,8575","size":"100,100"}
+-"I'll give you an exclusive: diplomatic relationships between the //República Socialista de España// and the //Estado Español//. I want you to be the main guy on the scene when the treaty gets signed."
+
+[["Wait... I'll be the only press there?"]]
+[["Aren't you two already at peace?"]]
+
+
+:: "And who are you supposed to be?" {"position":"1025,12175","size":"100,100"}
+-"I'm General //Francisco Miller//. I'm in charge of the //National Side// of Barcelona.", he says, then he leans forward. "Now, tell me: how did you find this place?"
+
+[["Why would I tell you?"]]
+[["The anarchists told me to visit the americans, and I found papers detailing your plan"]]
+[["An inventor told me to visit the CVM, and I found papers pointing to this location]]
+
+
+:: "And you want me to help you assault this park's cargo?" {"position":"875,7025","size":"100,100"}
+"Yes. But that's not what's being traded for the information you seek. I'll give you information, only if you show you can be trusted. Once you come back from the assault, I'll tell you everything you want to know".
+
+[["Okay, I'll do it"]]
+[["How do I know you'll keep your part of the deal?"]]
+
+
+
+:: "Are you feeling okay?" {"position":"500,6475","size":"100,100"}
+"I've been better", he says, followed by a bunch coughs. "Radiation from some of my early experiments with my automatons has left me in this state. The doctors don't think I have very long left".
+
+[["I'm sorry to hear that"]]
+[["Do you know a man named Miquel Akinola?"]]
+
+
+:: "Aren't you two already at peace?" {"position":"1050,8700","size":"100,100"}
+-"We're not attacking each other if that's what you mean. I'm not especially enthusiastic about being in good terms with fascist scum, but if things keep escalating the way they have been, we'll be left with no other choice than to start another war, and I don't thing either side could take it.", he takes a deep breath, then sighs. "If this meeting doesn't end well, there could be another war".
+
+[["Wait... I'll be the only press there?"]]
+[["Where will this take place?"]]
+
+
+:: "At least you turned out to be useful in the end." {"position":"950,8075","size":"100,100"}
+-"I guess I did. If you want you're free to leave."
+
+[[Go back to the Palacio del Pueblo]]
+
+
+:: "But what about their freedom?" {"position":"1100,13050","size":"100,100"}
+-"Their freedom is what led them here, I'm simply getting things back to square one. But that doesn't matter now, Crowley your presence here is God's way of saying I'm right."
+
+[[Reach for the gun]]
+[[Do nothing, let the launch happen.]]
+
+
+:: "Did you kill Akinola?" {"position":"875,6775","size":"100,100"}
+-"Straight to the point, huh? No. We did not kill Miquel Akinola. We had no reason to, he was one of the few communards who didn't actively despise us. But I know who might have.", he pauses for a few seconds. "And before you ask: no. I'm not going to tell you that just yet. Information is a valuable resource, and I think it would be better if I traded it for something"
+
+[["What do you want me to do?"]]
+
+
+:: "Do I know you?" {"position":"725,12175","size":"100,100"}
+-"I'm General Francisco Miller. I'm in charge of the //National Side// of Barcelona.", he says, then he leans forward. "Now, tell me: how did you find this place?"
+
+[["Why would I tell you?"]]
+[["The anarchists told me to visit the americans, and I found papers detailing your plan"]]
+[["An inventor told me to visit the CVM, and I found papers pointing to this location]]
+
+
+:: "Do you know a man named Miquel Akinola?" {"position":"600,6625","size":"100,100"}
+-"Of course! Akinola was here, not too long ago. He was doing a report about my automatons. In case you don't know, my automats analize the sewagge of the city.", he stops for a second, then resumes "Now that I think about it, some time ago, one of my automatons got stuck in the sewers and never came back. I'd like to get all of my automats home before I pass away.", a sudden sadness washes over him
+
+-"I-I'm sorry if its too much to ask, but... You're the first person to come here in a long time and I can't move from bed in my current state. Could you... help me get the missing automaton back? If you do I could tell you what I know about Akinola's research!".
+
+[["Okay, but this better be worth it"]]
+
+
+:: "Do you know who killed him?" {"position":"1000,3150","size":"100,100"}
+-"Ah, no... I'm sorry, we don't know who did it. But, that reminds me... someone pretty important came to visit you about that"
+
+[["Who?"]]
+
+
+:: "Everything hurts" {"position":"925,2750","size":"100,100"}
+-"Well, that's to be expected when you've been hit by an explosion. That being said, we're actually surprised to see how well your body handled being part of an explosion as big as this one."
+
+[["I have some questions"]]
+
+
+:: "Few days? How long have I been out?" {"position":"650,3175","size":"100,100"}
+-"You've been unconcious for the last two days, I'm afraid".
+
+[["Oh God... That's terrible"]]
+[["I have some questions"]]
+
+
+:: "Fuck." {"position":"750,11475","size":"100,100"}
+You feel a shiver down your spine. So this is it. This is why they killed Akinola. The record book has the location of the bomb written on it, there's nothing else to do but to go there. 
+
+[[Go to the location of the bomb]]
+
+
+:: "Hello?" {"position":"875,6650","size":"100,100"}
+-"The exploding Neil Crowley. I saw you from the balcony", he says. He's an old looking man, with long hair and and an even longer beard. He turns towards you you as he says:
+
+-"Any questions?"
+
+[["Who are you?"]]
+[["Did you kill Akinola?"]]
+
+
+:: "Honestly... I don't think I'll enjoy my stay here." {"position":"950,1325","size":"100,100"}
+-"Oh don't be so pessimistic, mate. I'm sure you'll end up loving it here.", he says. "Plus, if you dont... I'm sure you'll change your mind once you see how //the other side// is like."
+
+[["Why? What happens in the other side?"]]
+
+
+:: "How can you be so sure that it was them?" {"position":"800,4975","size":"100,100"}
+-"Well, Akinola did many reports at once, and from what I understand, one of his most recent reports was going to be focused on the //Anarchist ''Fac''ultades//, and another one on a //catalanist// inventor on his death bed. Now, there's nothing more that I'd like more than to send a squad of my best millitary men to knock on their doors, but for international-related reasons, doing that might result in a war with both the other Spain and the USA".
+
+[[Proceed]]
+
+
+:: "How did I get here?" {"position":"875,3025","size":"100,100"}
+-"You were brought in by the firefighters. The explosion you were in was seen from all across the city. In fact, you're pretty famous in Barcelona right now."
+
+[["I have some questions"]]
+
+
+:: "How do I know you'll keep your part of the deal?" {"position":"950,7150","size":"100,100"}
+-"You don't know, Neil Crowley. I, however, trust you will make the right choice", he reaches over to his side, and hands you a loaded revolver, which you take. "You'll probably need this if things don't go well in the assault. Oh, and this", he also gives you a map with the route of the shipment, as well as the point where you'll meet with the assaulters.
+
+[["I'll get going."]]
+[["I dont' want to use it"]]
+[["I could shoot you"]]
+
+
+:: "How do you know who I am?" {"position":"1000,4150","size":"100,100"}
+Let's just say I know a lot of stuff. Now, you're probably wondering why I, being who //I// am, brought you here.
+
+[[Yes. Why?]]
+[[Actually, I was wondering why you know who I am.]]
+
+
+:: "I could shoot you" {"position":"1125,7125","size":"100,100"}
+-"You could.", he says. "But then you wouldn't know what your friend was investigating."
+
+[["I'll get going."]]
+
+
+:: "I didn't know that, no." {"position":"800,12650","size":"100,100"}
+-"Why the *FUCK* would you say that, Miller?", Brightson says
+-"So that Mr Crowley here knows we're even", the general answers.
+Brightson is visibly confused. "What the hell is that supposed to me-" (text-style:"rumble")[BANG].
+
+Before anyone could realise, Miller has shot Brightson in the head.
+
+[["You're mad!"]]
+[["Okay... That was unexpected"]]
+
+
+
+:: "I don't know, actually" {"position":"775,5600","size":"100,100"}
+"I don't know what to make of him", you think. You're unsure if you like him or not. but maybe that's alright, you don't have to have an opinion on everyone you meet, after all. He did give you some realistic information of what could have happened to //Akinola//, though. What he said did make sense to an extent, at least the motive for the murder. Now, let's see if his suspicions were right.
+
+Where do you think you should go now?
+
+[[Let's see what the anarchists are up to]]
+[[Let's check up on the catalanist inventor]]
+
+
+:: "I don't think I should tell you." {"position":"875,8450","size":"100,100"}
+-"Okay Neil, I won't force you to tell me, but do know: I could help you out on your investigation.", he moves his head in disaproval, and then resumes talking. "In any case, there's another important thing at hand that you could do for your report on the //Split//"
+
+[["And what's that?"]]
+
+
+:: "I dont' want to use it" {"position":"1125,7250","size":"100,100"}
+-"You don't have to kill anyone. If you want, you could only use it for self-defense. If it makes you feel any better, we don't usually kill the people we steal from, we try to incapacitate them."
+
+[["I'll get going."]]
+
+
+:: "I have a good feeling about it" {"position":"650,1325","size":"100,100"}
+-"Yeah, it's good, isn't it? I've travelled all around the world, but nothing beats the beauty and compradeship of my home city of Barcelona.", he says visibly proud. "Well... This part of Barcelona at least. The other side isn't so... welcoming"
+
+[["Why? What happens in the other side?"]]
+
+
+:: "I have some questions" {"position":"800,2875","size":"100,100"}
+-"I'll try to answer as many of them as I can!"
+
+[["Where am I?"]]
+[["What happened"]]
+[["Where's Akinola?"]] (text-colour:yellow)[◍]
+[["How did I get here?"]]
+
+
+:: "I haven't really seen enough to have an opinion yet..." {"position":"800,1325","size":"100,100"}
+"Yeah, fair enough. But let me tell you mate, you'll love it here!", he says cheerfully. "And, even if you don't like it right away, you'll love it retroactively once you visit Barcelona's //other side//."
+
+[["Why? What happens in the other side?"]]
+
+
+:: "I saw what happened. Two men in suits killed him. One of them was called Brightson."" {"position":"900,4700","size":"100,100"}
+-"But who did those two men belong to, huh? //Akinola// was a proud member of the //Republic//, and we have a lot of enemies. Let me tell you something, Neil: We are (text-style:"buoy")[infected], but our (text-style:"buoy")[sickness] isn't physical or mental, it's ''idelogical''. Revisionist and subversive ideas have found its way into the //Republic//. I belive that it was one of these ideological (text-style:"buoy")[pests] who killed your friend.
+
+[["Who specifically did you have in mind?"]]
+
+
+:: "I won't tell you." {"position":"875,12400","size":"100,100"}
+-"That's fine, Crowley, because I've got a theory: I think you're here for a reason.", he starts to circle around you. "Call it destiny, call it God's will, or call it luck, but you've gone through an incredible amount of hardships and you're barely scratched. I don't think that's just a coincidence. From what I know, you were part of a big explosion and you're walking around like nothing happened, and finding this place in less than a day? Now, that's almost divine luck."
+
+The counter on the wall now reads "2:00 minutes until launch".
+
+[["Now that you mention it, I have been pretty lucky.]]
+[["You're utterly mad."]]
+
+
+:: "I wouldn't be this tired if I had asked to go to do some local work instead" {"position":"650,525","size":"100,100"}
+"This wouldn't have happened if I had asked to go to do some local work instead", you think to yourself. The prospect of going to Spain to do some international journalism did excite you at the time, but now that you're here, completely exhausted and fatigued, you aren't really thrilled at the idea of being so far away from London. 
+
+"Maybe once I've gotten some sleep I'll get my motivation to work abroad again, I suppose", you say to yourself, with a mix of optimism and weariness.
+
+[[Kill Time]]
+
+
+:: "I'd rather die standing than live kneeling." {"position":"800,13375","size":"100,100"}
+You say "I'd rather die standing than live kneeling".
+
+Immediately after pronouncing these words, you empty the gun's ammo on the launching machine. The machine starts to generate sparks. The sparks turn into fire, and the fire turns into an explosion. It's not a big explosion, but it's big enough to trigger the nuclear bomb.
+
+The nuclear bomb explodes in a gigantic atomic mushroom. It destroys everything in a 1 kilometer radius, including soldiers, civilians, tourists, everything. You could survive a gas station explosion, but this is different. Every single cell in your body is screaming in agony. You didn't know something could hurt so much until this moment. As instances pass, you begin to wonder if this pain will go on forever, if you're never going to stop hurting, but then suddenly you feel it...
+
+[[What is this feeling?]]
+
+
+:: "I'll get going." {"position":"875,7300","size":"100,100"}
+-"Good. Once you're done meet me here, and you'll have what you want."
+
+[[Go to the assault point]]
+
+
+:: "I'm a fucking monster" {"position":"1175,13325","size":"100,100"}
+"I'm a fucking monster."
+
+[[...]]
+
+
+:: "I'm a journalist, I need to get in there for a report" {"position":"800,11900","size":"100,100"}
+The guards look at you, and fall silent for a moment. Then, both of them start laughing.
+
+-"Get lost, pal", one of them says.
+
+You see as the eyes of the two soliders move away from you and focus on something behind you. Before you have time to react, you feel an immense pain on the back of your head.
+
+[[Fall unconcious... Again.]]
+
+
+:: "I'm a journalist, I'm doing a report." {"position":"725,6300","size":"100,100"}
+-"Okay, fair enough, I'll let you in."
+
+The light on the door turns off, and you hear a buzzing sound, as well as the clicking of the door's lock.
+
+[[Go inside]]
+
+
+:: "I'm doing a journalistic piece on the anarchists and I was told to come here" {"position":"875,6275","size":"100,100"}
+-"Yeeeah, you're probably looking for //Grandfather Alan//. He's always in his room upstairs. Just look for room number 6 and you'll find him inside."
+
+[[Go to room nº 6]]
+
+
+:: "I'm finally here." {"position":"950,525","size":"100,100"}
+"I'm finally here.", you think. These past few years doing small time journalism have finally brought you to another country to do your reporting. You don't really know a lot about Spain yet, but you probably will get to know it by the time you're finished with your report about the Spanish Split of '54. You feel like your journalistic career is about to start for real now.
+
+"I wonder if Akinola will take much longer to get here...", you say to yourself.
+
+[[Kill Time]]
+
+
+
+
+
+
+:: "I'm sorry to hear that" {"position":"400,6600","size":"100,100"}
+-"It's alright, it's not your fault", he looks at the ceiling. "I just wish I could see the independence before I go, but that's life I guess."
+
+[["Do you know a man named Miquel Akinola?"]]
+
+
+:: "If you could bring be there with a car I'd appreciate it" {"position":"625,5900","size":"100,100"}
+-"Ok, I'm going to call a car to escort you to the location, just wait here." The worker walks away with a radiophone on his hand. He's on a call with what seems to be your driver.
+
+You wait five minutes, and then a black car stops in front of you. A man calls you out from the inside. "Ven aquí!", you hear from the driver. You're not the most proficient in Spanish, but you manage to infer that he wants you to enter the car.
+
+[[Enter the car]]
+
+
+:: "If you're so sure why don't you deal with them yourself?" {"position":"925,4975","size":"100,100"}
+-"Oh, believe me, there's nothing I'd like more than to (text-style:"shudder")[rid the earth] of those disease-spreading parasites. But we can't.", he says as he grits his teeth with anger. "The moment we attack any one of those clumps of revisionists, the //Americans// or the //Fascists// will have an excuse to begin a war again, and that's something we must avoid if we don't want to become a nuclear wasteland.", he stops for a moment as he realises he's started to lose his composture.
+
+"-Ehem, regardless... //Akinola// recently did some reports on the //Anarchist ''Fac''ultades// and on a //catalanist inventor// on his death bed, so I'm pretty sure it was one of them."
+
+[[Proceed]]
+
+
+:: "Maybe" {"position":"1150,6150","size":"100,100"}
+-"Cool", she looks genuinely excited at the concept of seeing you explode, it's very possible that she's high right now.
+
+[["I'm doing a journalistic piece on the anarchists and I was told to come here"]]
+
+
+:: "My Name is Neil Crowley, I'm a friend of Akinola" {"position":"550,6300","size":"100,100"}
+-"Okay, fair enough, I'll let you in."
+
+The light on the door turns off, and you hear a buzzing sound, as well as the clicking of the door's lock.
+
+[[Go inside]]
+
+
+:: "Neutral? I'm the communistiest communist to ever communize!" {"position":"1100,9200","size":"100,100"}
+-"You were supposed to be neutral! Are you being serious", the fascist diplomat yells, as one of the armymen point a gun at you.
+
+In response to the pointing of the gun, the republican soldiers point their guns at the fascist soldiers, resulting in a shoot-out between them. Bullets fly through the air as bodies fall, with the only one left standing being yourself and the republican diplomat.
+
+-"OH MY GOD!", he screams as he starts to run towards his parked car, ready to get back to his side of Barcelona. 
+
+[[Let the diplomat go]]
+[[Shoot the republican in the back]]
+
+
+:: "Never pay more than 20 bucks for a computer game." {"position":"675,13375","size":"100,100"}
+You say "Never pay more than 20 bucks for a computer game".
+
+Immediately after pronouncing these words, you empty the gun's ammo on the launching machine. The machine starts to generate sparks. The sparks turn into fire, and the fire turns into an explosion. It's not a big explosion, but it's big enough to trigger the nuclear bomb.
+
+The nuclear bomb explodes in a gigantic atomic mushroom. It destroys everything in a 1 kilometer radius, including soldiers, civilians, tourists, everything. You could survive a gas station explosion, but this is different. Every single cell in your body is screaming in agony. You didn't know something could hurt so much until this moment. As instances pass, you begin to wonder if this pain will go on forever, if you're never going to stop hurting, but then suddenly you feel it...
+
+[[What is this feeling?]]
+
+
+:: "No! I'm actually a fascist! White power and all that stuff. " {"position":"850,9200","size":"100,100"}
+-"You were supposed to be neutral! Are you being serious", the republican diplomat yells, as one of the armymen point a gun at you.
+
+In response to the pointing of the gun, the fascist soldiers point their guns at the republican soldiers, resulting in a shoot-out between them. Bullets fly through the air as bodies fall, with the only one left standing being yourself and the fascist diplomat.
+
+-"OH MY GOD!", he screams as he starts to run towards his parked car, ready to get back to his side of Barcelona. 
+
+[[Let him go]]
+[[Shoot the fascist in the back]]
+
+
+:: "No. Alan told me the americans could have done it" {"position":"1000,8450","size":"100,100"}
+-"Hmmm... That sounds very plausible. I could help you out later if you want, but now, there's another important thing at hand. And in fact, this could be very beneficial for your report on the //Split//".
+
+[["And what's that?"]]
+
+
+:: "Now that you mention it, I have been pretty lucky. {"position":"800,12525","size":"100,100"}
+"Aah, so you're starting to see. Let me show you something.", he looks behind you and gestures for someone to come. "This is CIA agent John Brightson, the man who killed your journalist friend."
+
+Brightson looks confused. "What are you doing, Miller?"
+-"Let me do my job, Brightson.", the general says, and the turns to you, "Did you know that Mr Brightson killed your friend because he wanted to make it look like the United States had nothing to do with the bomb?"
+
+[["Yes. I knew that."]]
+[["I didn't know that, no."]]
+
+
+:: "Oh God... That's terrible" {"position":"700,3300","size":"100,100"}
+"Hey, look on the good side! You've managed to survive an explosion with only superficial damage! No bones broken, no internal bleeding, heck, you'll probably be able to walk out of that door today if all of the tests go well"
+
+[["I have some questions"]]
+
+
+:: "Okay, I'll do it" {"position":"800,7150","size":"100,100"}
+-"Perfect.", he reaches over to his side, and give you a loaded revolver ""You'll probably need this if things don't go well in the assault. Oh, and this", he also gives you a map with the route of the shipment, as well as the point where you'll meet with the assaulters.
+
+[["I'll get going."]]
+[["I dont' want to use it"]]
+[["I could shoot you"]]
+
+
+:: "Okay, but this better be worth it" {"position":"675,6750","size":"100,100"}
+-"Great! The machine has a localizer so I can know where it is at all times. See? it hasn't moved from here in at least two weeks. Take it, you'll probably need it." He puts his finger on his chin and starts to think, "What else could you need... Right! Here's a map of the sewers in case you get lost, a flashlight and, in case you find something dangerous down there..." He hands you over a loaded pistol with some extra magazines. You've never fired a gun before, but you've seen how they work in movies and TV shows, so it couldn't be that hard.
+
+[[Take the gun and the localizer.]]
+
+
+:: "Okay... That was unexpected" {"position":"975,12775","size":"100,100"}
+Miller drops the gun to the floor, and begins to untie you. As he's doing that, he says:
+
+"We've already had priests bless the bomb so that it doesn't miss the target, but I'm sure having you here will have even more of an effect. You were meant to be here, Crowley, and you'll be the good luck charm that'll help us anihilate the communards.", he grows more ecstatic the more he speaks about the bomb.
+
+"I'm really impressed with the launching mechanism the americans made for the bomb. I don't really understand how it works, but apparently it can launch that bomb up to 5 kilometers away without the need of planes. The wonders of modern technology."
+
+1:00 minute until launch.
+
+[[Force your way out of the chair]]
+[[Wait until Miller is done untying you]]
+
+
+:: "Shit" {"position":"1050,13325","size":"100,100"}
+"Shit."
+
+[[...]]
+
+
+:: "Shit." {"position":"1025,11500","size":"100,100"}
+You feel a shiver down your spine. So this is it. This is why they killed Akinola. The paper document has the location of the bomb written on it. 
+
+[[Go to the location of the bomb]]
+
+
+:: "Thank you for sharing this with me." {"position":"800,8075","size":"100,100"}
+-"You're welcome, Neil. Now, if you want you're free to leave."
+
+[[Go back to the Palacio del Pueblo]]
+
+
+:: "That's an automaton, mate. Not your Caudillo" {"position":"575,7925","size":"100,100"}
+-"You're blaspheming! The Caudillo has been reborn to rid the earth of communist filth!", he opens fully and he looks at you "You're one of them, aren't you? YOU'RE A REEEEEEEEEEEED!!!!!!"
+
+The crazed priest runs at you with the clear intention of killing you. It's you or him.
+
+[[Kill him.]]
+
+
+:: "The anarchists told me to visit the americans, and I found papers detailing your plan" {"position":"1000,12300","size":"100,100"}
+-"Fascinating. You see, Crowley, I think you're here for a reason.", he starts to circle around you. "Call it destiny, call it God's will, or call it luck, but you've gone through an incredible amount of hardships and you're barely scratched. I don't think that's just a coincidence. From what I know, you were part of a big explosion and you're walking around like nothing happened, and finding this place in less than a day? Now, that's almost divine luck."
+
+[["Now that you mention it, I have been pretty lucky.]]
+[["You're utterly mad."]]
+
+
+:: "The men in suits are here." {"position":"1075,10500","size":"100,100"}
+Alan was right. They're here. At least your investigation wasn't in vain.
+
+[[Go through the revolving doors]]
+
+
+
+
+:: "The way you said that, it sounded like you've killed journalists before." {"position":"675,4700","size":"100,100"}
+-"Don't try to change the subject now, Neil! What I'm trying to say is that Akinola was not only a great journalist, but also a proud citizen of the //Republic//. The //Republic //has a lot of enemies. We, as a society are (text-style:"buoy")[infected], but our (text-style:"buoy")[sickness] isn't physical or mental, it's ''idelogical''. Revisionist and subversive ideas have found its way into the //Republic//. I belive that it was one of these ideological (text-style:"buoy")[pests] who killed your friend."
+
+[["Who specifically did you have in mind?"]]
+
+
+:: "They could be sewer gnomes" {"position":"525,7150","size":"100,100"}
+You're in a different country, there's different rules. Who knows, maybe sewer gnomes *do* exist in Spain.
+
+You start to move towards the signal. Strange sounds are all arround you. You ignore them. It's better to not pay attention to them, you don't want the sewer gnomes to drown you in the sewers, you think to yourself. 
+
+You're getting closer to the automaton's signal.
+
+[[Keep walking.]]
+
+
+:: "They're probably rats" {"position":"650,7150","size":"100,100"}
+You're pretty sure it's only rats. After all, what else could be in the sewers?
+
+You start to move towards the signal. The strange sounds continue to resonate through the sewers. They're only rats in the sewers, the worst thing they could do is rub against your leg, you think to yourself. 
+
+You're getting closer to the automaton's signal.
+
+[[Keep walking.]]
+
+
+:: "This is for Akinola." {"position":"925,13375","size":"100,100"}
+You say "This is for Akinola".
+
+Immediately after pronouncing these words, you empty the gun's ammo on the launching machine. The machine starts to generate sparks. The sparks turn into fire, and the fire turns into an explosion. It's not a big explosion, but it's big enough to trigger the nuclear bomb.
+
+The nuclear bomb explodes in a gigantic atomic mushroom. It destroys everything in a 1 kilometer radius, including soldiers, civilians, tourists, everything. You could survive a gas station explosion, but this is different. Every single cell in your body is screaming in agony. You didn't know something could hurt so much until this moment. As instances pass, you begin to wonder if this pain will go on forever, if you're never going to stop hurting, but then suddenly you feel it...
+
+[[What is this feeling?]]
+
+
+:: "Time to go home." {"position":"1300,13325","size":"100,100"}
+"Time to go home."
+
+[[...]]
+
+
+:: "Two men in black suits shot him. I think one of them was called Brightson." {"position":"875,7950","size":"100,100"}
+-"Okay, that fits my theory well enough. I believe that he was killed by the americans. When he came here to do the report on me, he mentioned something about working on a piece about the working conditions of the parody parks. It's very possible that two security agents of the park were sent to off him, to avoid the information spreading out.".
+
+His face lights up, as if he just realised something, "Oh, and the suits are a good clue as well. Black suits are an american staple, I don't think anyone else but the americans wear them regularly."
+
+[["Thank you for sharing this with me."]]
+[["At least you turned out to be useful in the end."]]
+
+
+:: "Untie me right now!" {"position":"875,12150","size":"100,100"}
+-"All in good time, Crowley. For now, tell me how you found this place" 
+
+[["Why would I tell you?"]]
+[["The anarchists told me to visit the americans, and I found papers detailing your plan"]]
+[["An inventor told me to visit the CVM, and I found papers pointing to this location]]
+
+
+:: "Wait... I'll be the only press there?" {"position":"875,8700","size":"100,100"}
+-"It was their decision. They said they only wanted one independent and neutral newsperson. I don't really understand their decision, but if we have to deal with them I guess we'll have to give in a little bit."
+
+[["Aren't you two already at peace?"]]
+[["Where will this take place?"]]
+
+
+:: "What do you want me to do?" {"position":"875,6900","size":"100,100"}
+-"The //FAC// may have (text-style:"sway")[conquered] this territory, but we don't have lots of ways of generating resources to maintain it. We mostly gather our resources by stealing cargo shipments destined for other locations and claiming it for ourselves.", he looks directly at you. "We're gonna do an assault on the cargo shipment of the american's parody park"
+
+[["And you want me to help you assault this park's cargo?"]]
+[["What's a parody park?"]]
+
+
+:: "What happened" {"position":"725,3025","size":"100,100"}
+-"Ah... You were hit pretty close by an explosion. We brought you here and we've been taking care of you here for the past few days"
+
+[["Few days? How long have I been out?"]]
+[["I have some questions"]]
+
+
+:: "What is that sound?" {"position":"800,2625","size":"100,100"}
+You wake up in a hospital bed, surronded by other beds and nurses tending to patients.
+One of the nurses realises youre awake:
+
+-"Oh my God! You're awake! Hold on a minute let me fetch you the chief doctor", she says as she runs off to inform her superior about your awakening.
+
+After a few minutes, the doctor makes its way in.
+
+-"So, how are you, sir?"
+
+[["Actually, I'm feeling pretty well"]]
+[["Everything hurts"]]
+
+
+
+:: "What just happened?" {"position":"800,1575","size":"100,100"}
+- "Shit! I think one of our tires just got punctured."
+
+A moment of silence falls over your car.
+
+- "Okay, don't worry, I think I've got an extra tire in the back of the car, let me pull up the car into that gas station and I'll change our flat tire in no time"
+
+Akinola slowly drives up to the gas station, and as soon as he's there he turs the car off. "You don't have to get out if you want, I've done this with people inside before.", he says. He gets out of the car and heads for the trunk, from where he takes out a tire to replace the one that got punctured.
+
+[[Continue]]
+
+
+:: "What's a parody park?" {"position":"1025,6900","size":"100,100"}
+-"It's a term we use to refer to the american's theme park on the fascist side. They're ridiculous, vomit-enducing excuses to glorify american and spanish nationalism." he glances at you. He doesn't want to bore you with politics, so he changes the aproach to his explanation a bit.
+
+-"That business woman, Nancy Dinn, thought it would be a great idea to build a theme park based in Spain inside Spain. The main issue with that, a side from being a completely idiotic idea, is that it's an extremely americanized version of what Spain is. And by 'americanized version' I mean that it's completely wrong.", he pauses to take a smoke from his pipe. "That park is made up of stereotypes of what Spain is like. Bull fighters, sevillanas, paella... She even thought it would be a good idea to put mariachis, which aren't even Spanish! But, of course, the mindless consuming americans eat that up.". He sighs and looks at you. "That's what a parody park is".
+
+[["And you want me to help you assault this park's cargo?"]]
+
+
+:: "What? Of course not! {"position":"1300,6150","size":"100,100"}
+-"That's too bad, I like to see fireworks go out", she looks genuinely disappointed, it's very possible that she's high right now.
+
+[["I'm doing a journalistic piece on the anarchists and I was told to come here"]]
+
+
+:: "What?" {"position":"875,6025","size":"100,100"}
+-"The action man. The man who exploded. Why are you here, exploding man?"
+
+[["I'm doing a journalistic piece on the anarchists and I was told to come here"]]
+
+
+:: "When they do bad reporting?" {"position":"625,4350","size":"100,100"}
+"What? No! They get killed when they find out stuff they shouldn't have found out. //Akinola// was doing reports all over Barcelona, and we didn't kill him, so who did?"
+
+[["I saw what happened. Two men in suits killed him. One of them was called Brightson.""]]
+[["The way you said that, it sounded like you've killed journalists before."]]
+
+
+:: "When they find out stuff they shouldn't?" {"position":"900,4550","size":"100,100"}
+"Exactly! Now, //Akinola// was doing reports all over Barcelona, and we didn't kill him, so who did?"
+
+[["I saw what happened. Two men in suits killed him. One of them was called Brightson.""]]
+[["The way you said that, it sounded like you've killed journalists before."]]
+
+
+:: "When they get the tire on their car punctured? {"position":"500,4350","size":"100,100"}
+"What? No! They get killed when they find out stuff they shouldn't have found out. //Akinola// was doing reports all over Barcelona, and we didn't kill him, so who did?"
+
+[["I saw what happened. Two men in suits killed him. One of them was called Brightson.""]]
+[["The way you said that, it sounded like you've killed journalists before."]]
+
+
+:: "When they're being inefficient? {"position":"750,4350","size":"100,100"}
+"What? No! They get killed when they find out stuff they shouldn't have found out. //Akinola// was doing reports all over Barcelona, and we didn't kill him, so who did?"
+
+[["I saw what happened. Two men in suits killed him. One of them was called Brightson.""]]
+[["The way you said that, it sounded like you've killed journalists before."]]
+
+
+:: "Where am I?" {"position":"600,3025","size":"100,100"}
+-"You're at a hospital in the Republican side of Barcelona."
+
+[["I have some questions"]]
+
+
+:: "Where will this take place?" {"position":"975,8825","size":"100,100"}
+-"We've agreed to sign the treaty on a civilian-free zone, in a neutral clearing west of the city, I'll mark it on your map."
+
+[[Go to the clearing]]
+
+
+:: "Where's Akinola?" {"position":"1000,3025","size":"100,100"}
+-"I'm very sorry Neil. I'm afraid Mr //Miquel Akinola// didn't manage to survive. He died from a bullet wound to the head.", he says with greif in his voice. "I'm very sorry for your loss"
+
+[["Do you know who killed him?"]](text-colour:yellow)[◍]
+[["I have some questions"]]
+
+
+:: "Who are you?" {"position":"1025,6650","size":"100,100"}
+-"My name is Alan, but everybody here calls me //the Grandfather.// I was one of the first people to fight for anarchism in this Republic."
+
+[["Did you kill Akinola?"]]
+
+
+:: "Who specifically did you have in mind?" {"position":"800,4850","size":"100,100"}
+-"I believe it was either the //anarkiddies//, or the //catalan revisionists//.  They're the two most extended creeds in the //Republic//, unfortunately.""
+
+[["How can you be so sure that it was them?"]]
+[["If you're so sure why don't you deal with them yourself?"]]
+
+
+:: "Who?" {"position":"1000,3275","size":"100,100"}
+-"//The President of the Republic!// I'm sure under other circumstances this would be more exciting for you, but still... He came around to talk to you about Akinola. He didn't give any details, but he seemed to want to talk about his death with you."
+
+[["Why would the President of the Spanish Republic want to talk with me especifically?"]]
+
+
+:: "Why are you doing this?" {"position":"950,13025","size":"100,100"}
+-"You've seen what the Republic brings! A divided nation, where the government can barely control its population. Once we unify Spain under th, there will no longer be division among the population, we'll be strong as one, not weak as a thousand!"
+
+[["But what about their freedom?"]]
+[[Reach for the gun]]
+[[Do nothing, let the launch happen.]]
+
+
+:: "Why would I tell you?" {"position":"875,12275","size":"100,100"}
+-"Because you're my prisoner and I could kill you if you don't answer me. But today I'm feeling generous, so if you answer me I'll untie you, how about that. Now, how did you get here?"
+
+[["I won't tell you."]]
+[["The anarchists told me to visit the americans, and I found papers detailing your plan"]]
+[["An inventor told me to visit the CVM, and I found papers pointing to this location]]
+
+
+:: "Why would the President of the Spanish Republic want to talk with me especifically?" {"position":"1000,3400","size":"100,100"}
+-"I don't know, but he told me to let you know that he wanted to meet you at the //Palacio del Pueblo//. Whenever you woke up, that is."
+
+[["...Okay, I guess I could go there."]]
+
+
+:: "Why? What happens in the other side?" {"position":"800,1450","size":"100,100"}
+-"Come on Neil, I'm sure even in London there's horror stories of what happens in the premises of the ''Fascist Side''. Tortures, extreme poverty, political violence, and so on and so on. Now, us ''Republicans'' may not be perfect, but at least we're not //them//."
+
+Just after finishing that sentence, you feel a bump in the road. As the car begins to slow down, you hear a subtle hissing sound coming from the outside.
+
+[["What just happened?"]]
+
+
+:: "Yep, completely neutral." {"position":"975,9200","size":"100,100"}
+-"Good.", the fascist diplomat says. "Now, let's get to signing the treaty."
+
+The republican grabs the pen to sign the paper, but when he's about to sign... The pen doesn't have ink. "It's out of ink", he says.
+
+-"You're doing it wrong! Give it to me!", requests the fascist diplomat.
+-"I'm doing it fine, let go of the pen!", responds the republican.
+
+You're stuck there, watching as the two men wrestle for a pen, when suddenly... a shot. One of the fascist soldiers has shot the republican diplomat. This results in an all out shootout between the two sides. Bullets flying across the air, and bodies falling to the ground, until...
+
+[[Continue.]]
+
+
+:: "Yes. I knew that." {"position":"975,12650","size":"100,100"}
+-"Why the *FUCK* would you say that, Miller?", Brightson says
+-"So that Mr Crowley here knows we're even", the general answers.
+Brightson is visibly confused. "What the hell is that supposed to me-" (text-style:"rumble")[BANG].
+
+Before anyone could realise, Miller has shot Brightson in the head.
+
+[["You're mad!"]]
+[["Okay... That was unexpected"]]
+
+
+
+:: "Yes. It is I, the action man." {"position":"1025,6025","size":"100,100"}
+"What are you doing here, action man? Are you gonna explode again?"
+
+[["Yes."]]
+[["Maybe"]]
+[["What? Of course not!]]
+
+
+:: "Yes." {"position":"1025,6150","size":"100,100"}
+-"Cool", she looks genuinely excited at the concept of seeing you explode, it's very possible that she's high right now.
+
+[["I'm doing a journalistic piece on the anarchists and I was told to come here"]]
+
+
+:: "You're here to what?" {"position":"675,7625","size":"100,100"}
+"Look, the Caudillo!", he points at the uniformed automaton. "The Caudillo has resurrected in the shape of metal, and he's roaming the sewers to unify Spain from under the ground! Franco! Franco! Franco!".
+
+The man is clearly derranged.
+
+[["That's an automaton, mate. Not your Caudillo"]]
+[[Kill him]]
+[[Go and inform the inventor.]]
+
+
+:: "You're mad!" {"position":"800,12775","size":"100,100"}
+Miller drops the gun to the floor, and begins to untie you. As he's doing that, he says:
+
+"We've already had priests bless the bomb so that it doesn't miss the target, but I'm sure having you here will have even more of an effect. You were meant to be here, Crowley, and you'll be the good luck charm that'll help us anihilate the communards.", he grows more ecstatic the more he speaks about the bomb.
+
+"I'm really impressed with the launching mechanism the americans made for the bomb. I don't really understand how it works, but apparently it can launch that bomb up to 5 kilometers away without the need of planes. The wonders of modern technology."
+
+1:00 minute until launch.
+
+[[Force your way out of the chair]]
+[[Wait until Miller is done untying you]]
+
+
+:: "You're the one who's supposed to tell me about that" {"position":"1000,7850","size":"100,100"}
+-"Yes, but I just want to confirm my suspicions. Now, what do you know about the murder?"
+
+[["Two men in black suits shot him. I think one of them was called Brightson."]]
+
+
+:: "You're utterly mad." {"position":"975,12525","size":"100,100"}
+"So you're not convinced yet. That's okay, I know what will convince you.",  he looks behind you and gestures for someone to come. A familiar man comes to his side. "This is CIA agent John Brightson, the man who killed your journalist friend."
+
+Brightson looks confused. "What are you doing, Miller?", he says.
+-"Let me do my job, Brightson.", the general says, and the turns to you, "Did you know that Mr Brightson killed your friend because he wanted to make it look like the United States had nothing to do with the bomb?"
+
+[["Yes. I knew that."]]
+[["I didn't know that, no."]]
+
+
+:: ... {"position":"1025,13650","size":"100,100"}
+The End.
+
+
+:: Actually, I was wondering why you know who I am. {"position":"1125,4275","size":"100,100"}
+-"If you insist. I've met Akinola a couple of times, and some of them he told me about how he talked to you on the radiophone about doing a report on the //Anniversary of the Spanish Split of '54 //. Plus, even if I didn't know about you from that I'd probably know from the news. You're gained quite the reputation, surviving that explosion."
+
+[[That makes sense, I guess.]]
+
+
+:: Approach the door. {"position":"675,7375","size":"100,100"}
+You approach the door and begin peeping from the crack of door. An old man is inside. He's wearing some kind of priest clothes, and he's muttering to himself. The stranded automaton is also there, but it looks like he's wearing some kind of uniform. You slowly and silently enter the room as you pointing your gun to the old man, just in case.
+
+[[Ask him what's going on.]]
+[[Kill him.]]
+
+
+:: Approach the war room {"position":"875,11775","size":"100,100"}
+You approach the giant abandoned-looking building. In front of its entrance there's two armed military men guarding it.
+
+[["I'm a journalist, I need to get in there for a report"]]
+[[Walk into the building saying "Hello gentlemen".]]
+[[]]
+
+
+:: Ask him about Akinola. {"position":"450,8175","size":"100,100"}
+-"Akinola mentioned something about the Congregación de la Virgen del Martirio, or CVM, while he was doing the report.", his gaze wanders off as he says "Hey, now that I think about it, the priest was probably there because the sewer systems are shared between the two sides of BCN. I'm sure the priest was part of the Catedral de la Espiral, or something".
+
+-"Anyways, thank you for your help, Neil, you know where the exit is." As you're leaving, he says something else: "Oh, and you can keep the gun, you never know if you're gonna need it, especially if you're going to the CVM!".
+
+[[Go back to the Palacio del Pueblo]]
+
+
+:: Ask him what's going on. {"position":"675,7500","size":"100,100"}
+-"Please don't kill me", says the old man. "I'm here to take care of El Caudillo."
+
+[["You're here to what?"]]
+[[Kill him.]]
+[[Go and inform the inventor.]]
+
+
+:: Continue {"position":"800,1700","size":"100,100"}
+As Akinola readies the car jack to replace the tire, you notice two men in black suits leave from the inside of the gas station. They walk with their back very straightened up, like they're trying to look imposing. 
+
+The two men walk up to Akinola, and one of them starts talking.
+
+[[Listen to the man in a black suit]]
+
+
+:: Continue reading {"position":"700,11175","size":"100,100"}
+You continue reading until you find a more recent record.
+
+-"Our prayers have been answered. Akinola the sodomite has been struck down by one of our american brothers for his prying."
+
+If what you're reading is correct, the fascists have a hold of a nuclear bomb, and they're planning on dropping it on the republican part of Barcelona. It also looks like Akinola new something about this, and the americans were involved in his murder.
+
+[["Fuck."]]
+
+
+:: Continue with your investigation before things get worse {"position":"975,9600","size":"100,100"}
+What did you do previously?
+
+[[I went with the anarchists]]
+[[I went with Víctor Mora]]
+
+
+:: Continue. {"position":"975,9350","size":"100,100"}
+It's over. Everyone is dead on the floor. No way of avoiding this now, the moment anyone finds out about this war is inevitable.
+
+What should you do now?
+
+[[Go tell Guillermo Morris about this]]
+[[Continue with your investigation before things get worse]]
+
+
+:: Do nothing, let the launch happen. {"position":"1050,13200","size":"100,100"}
+You don't try anything to stop the launch. You see how the counter goes down.
+
+Twenty seconds. Ten. Five. Four. Three, Two. One.
+
+You see the bomb launch into the air. You see as the bomb gets smaller and smaller. Minutes go by, and you begin to wonder if it will even hit. Maybe it doesn't even reach its target. Heck, maybe it doesn't even explode. But that isn't true.
+
+After a few minutes you see a giant mushroom cloud rise from the city. The //Palacio del Pueblo// has been hit. The bomb has certainly killed every civilian, tourist, and solider that stood in its path. You don't know how to react at seeing this. You can't help but say the first thing that pops into your mind.
+
+[["Shit"]]
+[["I'm a fucking monster"]]
+[["Time to go home."]]
+
+
+
+:: Enter room 63 {"position":"1050,11250","size":"100,100"}
+You enter the room. It's a pretty standard modern hotel room. 
+
+[[Look around the room]]
+
+
+:: Enter the Palacio {"position":"1000,3900","size":"100,100"}
+You enter the //Palacio del Pueblo//. In contrast to the old facade of the building, the inside of the Palacio is clearly new. A lot of the latest nuclear technology is present in the palace, including some free-roaming automatons.
+
+You wander around the building looking for a door labelled with anything that might have the President inside, until you finally find a door labelled as "Government's Room".
+
+[[Enter the room]]
+
+
+:: Enter the building {"position":"875,8325","size":"100,100"}
+You enter the Palacio, and quickly make your way to the President's room. You see he's been waiting for you.
+
+-"Ah, Neil! Good to see you came back just in time.", he puts both of his hands together. "So, was it the anarchists?"
+
+[["I don't think I should tell you."]]
+[["No. Alan told me the americans could have done it"]]
+
+
+:: Enter the car {"position":"600,6025","size":"100,100"}
+The driver seems to not know English. He starts speaking Spanish with some kind of accent. "¿Qué te lleva poh aquí? Hase muxo que no veo xavale britanico, poh lo menoh dehde hase dieh año", you don't understand a single word he says besides 'british', so you simply nod in agreement and pray that he didn't ask you a question. The driver laughs, and continues driving
+
+"I need to improve my Spanish" you think. Ten minutes later, the car stops. The driver points out in a direction, then he says "There". You get out of the car. It starts raining. Lucky for you, you still have the umbrella from your bag.
+
+[[Walk to Victor's house]]
+
+
+:: Enter the check-in {"position":"1075,10100","size":"100,100"}
+The building is completely empty. Not a single person in sight, not even the recepcionist is there. There is, however a lot of noise coming out from inside the park itself.
+
+[[What's making that noise?]]
+[[Inspect the recepcionist's desk]]
+
+
+:: Enter the hotel {"position":"950,5900","size":"100,100"}
+You enter the old hotel. You see a lot of movement going on inside: people talking, smoking, running around... You see a young woman sitting on top of the reception office, smoking.
+
+-"Oi! You, there!", she says pointing at you "You're the action man!"
+
+[["What?"]]
+[["Yes. It is I, the action man."]]
+
+
+:: Enter the resort {"position":"1075,9975","size":"100,100"}
+You cross the arch and see a statue made of black marble. It portrays a blindfolded woman, holding a black scale on her right hand. Her left arm is missing.
+
+Past the statue is a small building, the check-in to the resort.
+
+[[Enter the check-in]]
+
+
+:: Enter the room {"position":"1000,4025","size":"100,100"}
+You enter the room, and see the //President of the Republic// talking with a man.
+
+-"Yes, the banners should go over the building and-" he notices you've entered the room, and as he signals the man to get out with a hand motion, he starts to talk to you "Neil Crowley I presume? I'm //Guillermo Morris//, President of the Republic" he says as he greets you with a handshake.
+
+[["How do you know who I am?"]]
+
+
+:: Enter the station {"position":"750,6025","size":"100,100"}
+As you go downstairs a woman approaches you and slightly hits you while going down, she seems to be in a hurry. Once downstairs you buy a ticket for the metro and wait for it on the platform. The sign on it says 0:30 for the next train. The metro is here, you go inside.
+
+The metro is almost full. You know at which station you need to get off. Lots of people seem to speak foreign languages: russian, german, chinese, english. You see what seems like a gypsy family singing a traditional Flamenco-sounding. Before you realize it, you've arrived at your stop. When you get off the metro you see it has started to rain.. You are lucky to have your work bag, obiusly there's an umbrella. Living in London this is mandatory.
+
+[[Walk to Victor's house]]
+
+
+:: Fall unconcious {"position":"800,2500","size":"100,100"}
+You've fallen completely unconcious. You don't even dream, you just feel completely nonexistent, wallowing in the void for a while. That is, of course until you start to hear a sound coming from all around you...
+
+[["What is that sound?"]]
+
+
+:: Fall unconcious... Again. {"position":"875,12025","size":"100,100"}
+Here we are again. Everything's black, and you're adrift in a void of nothingness. That is, until you start to hear a beeping sound.
+
+You wake up tied to a chair. In front of you, a strange-looking machine is holding a pale nuclear bomb with the symbol of a skull imprinted. Scientists and soldiers are all around it, doing inspections. Background machinery beeps loudly. A counter on the wall reads 3:00 minutes until launch.
+
+-"What the hell are *you* doing here?", an old-looking man with a military outfit says to you. You notice a name tag on his uniform that reads 'General Miller'.
+
+[["Do I know you?"]]
+[["Untie me right now!"]]
+[["And who are you supposed to be?"]]
+
+
+:: Fine, but I'll do it for Akinola, not for you {"position":"975,5300","size":"100,100"}
+-"Well, that's fine too, Neil. Anyhow, here's a map with the locations of the two suspects. The mark up north is the //FACC//, the Anarchist breeding ground, and the mark down south is the home of //Víctor Mora//, the catalanist inventor. Well, that's it for now, you can go now, Neil." he gestures you to leave the room, and as you're about to leave, he suddenly remembers something.
+
+-"Oh! I almost forgot! You should pass by here at around 16:00. Even if you won't share your discoveries with me, you should see the start of the celebrations of the 45th anniversary of the Split! I'm sure it would work pretty nicely with your report." 
+
+[[Get out of the Palacio del Pueblo]]
+
+
+:: Fine, but I'll do it for myself, not for you {"position":"850,5300","size":"100,100"}
+-"Well, that's fine too, Neil. Anyhow, here's a map with the locations of the two suspects. The mark up north is the //FACC,// the Anarchist breeding ground, and the mark down south is the home of //Víctor Mora//, the catalanist inventor. Well, that's it for now, you can go now, Neil." he gestures you to leave the room, and as you're about to leave, he suddenly remembers something.
+
+-"Oh! I almost forgot! You should pass by here at around 16:00. Even if you won't share your discoveries with me, you should see the start of the celebrations of the 45th anniversary of the Split! I'm sure it would work pretty nicely with your report." 
+
+[[Get out of the Palacio del Pueblo]]
+
+
+:: Follow Akinola to his car {"position":"800,1075","size":"100,100"}
+You follow Akinola to the parking where his car is stationed. 
+
+-"I'll get the car started, you can put your stuff in the trunk of the car if you'd like".
+
+You load your baggage into Akinola's small car and close the trunk.
+
+[[Get in the Car]]
+
+
+:: Follow the shouting {"position":"1075,10750","size":"100,100"}
+You make your way to where the shouting is taking place. You see a horde of people lining up to a building with a sign that says "Customer Service". You can't make out a lot of what they're saying, but you do hear the words "food", "feed", and "starve" a lot.
+
+The image of chaotic shouting contrasts with the park's more child-friendly nature. You see animatronic sevillanas dancing and singing, a billboard of a cartoon shrimp next to a paella, and, oddly enough, a plastic statue of a man in a mexican hat next to a completely empty taco stand.
+
+On your left, a giant screen shows a woman talking to the camera.
+
+[[Listen to the woman on the screen]]
+[[Look for Brightson in the horde]]
+[[Go to the Grand Hotel]]
+
+
+:: Force your way out of the chair {"position":"975,12900","size":"100,100"}
+You forcefully get up from the chair while Miller is trying to untie you.
+
+[["Why are you doing this?"]]
+[[Reach for the gun]]
+
+
+:: Get in the Car {"position":"800,1200","size":"100,100"}
+You sit on the co-pilot seat, next to //Akinola//.
+
+-"Alright then, here we go", he says. 
+
+The car starts leaving the airport behind, 
+
+"So, what do you think of //our// Barcelona so far?"
+
+[["I have a good feeling about it"]]
+[["I haven't really seen enough to have an opinion yet..."]]
+[["Honestly... I don't think I'll enjoy my stay here."]]
+
+
+
+
+:: Get out of the Palacio del Pueblo {"position":"850,5475","size":"100,100"}
+You leave the Palacio. You're back on the city square, and you're not sure of what to make of that conversation with the //President//. He seemed like...
+
+[["A real working class hero"]]
+[["An interesting person"]]
+[["I don't know, actually"]]
+[["A fucking commie"]]
+
+
+:: Get out of the car and run {"position":"850,2350","size":"100,100"}
+You run like hell away from the car, but as you're trying to get away from it, you hear the loudest noise you've ever heard in your life. An explosion sends sends you flying away from the gas station. The heat of the explosion burns your back, as you're sent head-first into the ground.
+
+You hit the ground, and try to keep yourself together, but the only thing you can manage to do is...
+
+[[Fall unconcious]]
+
+
+:: Go and inform the inventor. {"position":"325,7925","size":"100,100"}
+Before you return with Victor. You reset the robot and starts going to the sewers. The old man starts stearing and screaming to the robot to not leave, you decide to do nothing and leave the sewer.
+
+-"He thought what?". Victor laughed while he was on his bed. Then started coughing.
+-"That pour man really though my machines look like 'el Caudillo', the people from //the other side// seem to be more crazy lately."
+
+[[Ask him about Akinola.]]
+
+
+:: Go back to Victor's house {"position":"700,9850","size":"100,100"}
+You go as fast as you can to Victor's house. You enter his house and explain to him why you need to use the sewers. Victor allows you access to the sewers.
+
+[[Go back to where the automaton got lost]]
+
+
+:: Go back to the Palacio del Pueblo {"position":"875,8200","size":"100,100"}
+You go back to the city square of the Palacio del Pueblo. You see that they're putting giant banners over the facade of the building. The banners are red, and in their center there's the image of a ''sword'', encircled by blades of wheat. These are probably for the anniversary of the //Split//.
+
+[[Enter the building]]
+
+
+:: Go back to where the automaton got lost {"position":"700,9975","size":"100,100"}
+You go down the sewers just like before, and you make your way to the place where the automaton got lost.
+
+Inside the room, next to a bunch of portraits of Franco, you can see a ladder that leads up
+
+[[Go up the ladder]]
+
+
+:: Go down the ladder {"position":"650,7025","size":"100,100"}
+You go down the ladder to the sewers. The smells starts to kick in as you enter it. You see lot's of small (text-style:"shudder")[moving things] in the dark, they seem to be rats. Then you start going towards the signal. Strange sounds are all around you, but you try to ignore them.
+
+[["They're probably rats"]]
+[["They could be sewer gnomes"]]
+
+
+
+:: Go inside {"position":"625,6425","size":"100,100"}
+You enter the house, and see a sick-looking man on a big white bed. The head of his bed is enormous, and spiky, it almost looks like a crown. On the bed, you see //Victor Mola//, a dark-haired young inventor who clearly looks tired.
+
+[["Do you know a man named Miquel Akinola?"]]
+[["Are you feeling okay?"]]
+
+
+:: Go meet to the Palacio del Pueblo {"position":"1000,3775","size":"100,100"}
+You arrive at the location marked on the map the doctor gave you. It's a big city square, with plenty of buildings around you, and two distinctly old and imposing buildings facing each other. One of the buildings is marked "//Ajuntament de Barcelona//", while the other one is marked "//Palacio del Pueblo//". The letters marking its name are clearly newer than the rest of the building.
+
+[[Enter the Palacio]]
+
+
+:: Go on foot {"position":"775,5900","size":"100,100"}
+-"Ok, no problem if you want to go alone. Be careful, though, don't let the revisionist's ideas get into your head.."
+
+You continue walking onto to the nearest metro station, and go in.
+
+[[Enter the station]]
+
+
+:: Go talk with the inventor {"position":"450,7925","size":"100,100"}
+You bring the automaton with you to Victor's house. Once you get there, you tell him what you've seen.
+
+-"That's pretty disturbing. I never would've thought that was happening to my automaton."
+
+
+:: Go talk with the inventor. {"position":"200,7925","size":"100,100"}
+You bring the automaton with you to Victor's house. Once you get there, you tell him what you've seen.
+
+-"Wait you did what? You I didn't think you'd use the gun to kill another person! It was for the rats and animals down there! You seemed too peaceful to do that, but I guess looks can be decieving. Maybe I shouldn't given you the gun if I knew you would be killing innocent people." Victor seems to be upset, then he looks and you and says. "To be fair, I actually think I would have done the same if I were in your situation."
+
+[[Ask him about Akinola.]]
+
+
+:: Go tell Guillermo Morris about this {"position":"975,9475","size":"100,100"}
+You get back to the Palacio del Pueblo as fast as you can.  You enter the President's room and you explain what happened. He panicks, then tries to calm down.
+
+-"This is not good, Neil. I'm sorry if what you say is true I have to ask you to leave. I'll be very occupied for the next moments trying to get a hold of the situation.".
+
+You leave the Palacio one last time.
+
+[[Continue with your investigation before things get worse]]
+
+
+:: Go through the revolving doors {"position":"1075,10625","size":"100,100"}
+As you cross the revolving doors you notice how loud the shouting actually was. You walk towards it, not knowing what you'll find.
+
+[[Follow the shouting]]
+
+
+:: Go to room nº 6 {"position":"875,6400","size":"100,100"}
+You go up the stairs looking for room number 6. You see a black door with the imprint of a white crown in the middle. Inside the crown, the number 6.
+
+[[Try to open the door]]
+
+
+:: Go to the Grand Hotel {"position":"1075,10875","size":"100,100"}
+You make your way to the grand hotel. It's also empty. Wandering around, you find room 63, and, unsurprisingly i'ts locked.
+
+[[Knock on the door]]
+[[Put your ear on the door]]
+
+
+:: Go to the assault point {"position":"875,7425","size":"100,100"}
+You arrive at the destination. It's a road pretty much in the middle of nowhere. Around you, there's a large group of anarchists trying to hide. In the distance, heading for you, you see two armored cars escorting a large truck.
+
+[[Wait until they're closer]]
+
+
+:: Go to the clearing {"position":"975,8950","size":"100,100"}
+You arrive at the clearing. You see no buildings or signs of civilization around, except for a road and the city on the distance. In front of you are two chairs and a table with a paper on top. 
+
+Behind the table, a bunch of men can be seen. On the left, the fascist diplomat surronded by four military men wearing the uniform of the National Army. On the right, the communist diplomat surrounded by four military men wearing the uniform of the Republican Army. The fascist diplomat starts to speak:
+
+-"Well then, gentlemen. Are we ready?"
+
+[[Proceed.]]
+
+
+
+
+:: Go to the location of the bomb {"position":"875,11650","size":"100,100"}
+You get out of there as fast as you can, and you head to the old war room where the bomb is located. On the way there, you see the landscape of fascist Barcelona. You see very industrial-looking buildings and architecture, but what really gets to you are the people.
+
+Most regular people look completely miserable. In the case that they aren't homeless, they look exhausted and fed up. The only people who look fine are the many military roaming the streets and the odd tourist that can be seen here or there.
+
+[[Approach the war room]]
+
+
+:: Go to the parody park {"position":"1075,9850","size":"100,100"}
+You go as fast as you can to the parody park. On the way, you cross the border to Nationalist Barcelona by showing your Press Pass. You immediately see the park's entrance, so you don't really see that much of fascist Barcelona.
+
+The entrance is a wide door arch, with the words "Dinn Spanish Resort" visible on top.
+
+[[Enter the resort]]
+
+
+:: Go up the ladder {"position":"700,10100","size":"100,100"}
+You emerge from the sewers, and find yourself inside the Catedral de la Espiral. You hear some priests argue in the background, and from a small spot in the door, you can see an empty room with a desk.
+
+[[Try to listen the priest's conversation]]
+[[Try to sneak into the empty room]]
+
+
+:: Grab a key card {"position":"1075,10375","size":"100,100"}
+As you grab a key card, the others topple down. You notice something as the cards fall down: there's a list of residents under the cards.
+
+Without really trying to, you notice a name on the list: "John Brighton. Grand Iberian Hotel, room 63".
+
+[["The men in suits are here."]]
+
+
+:: I went with Víctor Mora {"position":"725,9725","size":"100,100"}
+You remember that Victor gave you a map showing you the entire sewer system of Barcelona, with a mark where the automaton got lost. If you go there again, it's very possible that the Catedral de la Espiral will over it.
+
+[[Go back to Victor's house]]
+
+
+:: I went with the anarchists {"position":"1075,9725","size":"100,100"}
+You remember that Alan gave you a map showing you the trade route to the american's parody park. You've also got your Press Pass, so you'd probably be able to cross the border to the other side of BCN pretty easily.
+
+[[Go to the parody park]]
+
+
+:: Inform Grandfather Alan {"position":"875,7800","size":"100,100"}
+You go back to Alan's room. He doesn't seem surprised to see you.
+
+-"From what I understand, you've helped us get a hold of the cargo shipment. Thank you.", he seems genuinely grateful. "So, what do you know about the people who killed Akinola?"
+
+[["You're the one who's supposed to tell me about that"]]
+[["Two men in black suits shot him. I think one of them was called Brightson."]]
+
+
+:: Inspect the book {"position":"700,10700","size":"100,100"}
+The book is titled 'Record of the Catedral de la Espiral'. Under the title, there's the symbol of a black measuring scale.
+
+[[Skim through the pages]]
+
+
+:: Inspect the closets {"position":"550,10625","size":"100,100"}
+All closets are completely empty.
+
+[[Inspect the book]]
+[[Inspect the drawers]]
+
+
+:: Inspect the drawers {"position":"850,10600","size":"100,100"}
+The drawers only contain unimportant books, as well as some documentation about the CVM's new legislation about eating one meal a day.
+
+[[Inspect the book]]
+[[Inspect the closets]]
+
+
+:: Inspect the recepcionist's desk {"position":"1075,10250","size":"100,100"}
+You get behind the recepcionist's desk. You see a bunch of cards stacked on top of each other, labelled as "key cards".
+
+[[Grab a key card]]
+
+
+:: Inspect your Journalist Pass {"position":"675,725","size":"100,100"}
+You reach for your pocket and grab your Press Pass. You've got nothing better to do, so you start to read its details.
+
+''Name:'' Neil Crowley
+''Date of Birth'': 18/09/1975
+''Position: ''Junior Journalist
+''Company:'' International News Today
+''Issued at:'' London Headquarters
+
+Just as you finish checking your journalist pass, you hear someone calling your name.
+
+[[Look at whoever is calling out for you]]
+
+
+:: Keep walking. {"position":"575,7275","size":"100,100"}
+As you approach the signal, a strange voice seems to come from its direction. You the voice is coming from behind a closed door. This is the first door you've seen in the sewers so far. This seems unusual.
+
+[[Approach the door.]]
+
+
+:: Kill Time {"position":"800,600","size":"100,100"}
+With nothing to do but wait for your ride, you think of things to do to not bore yourself to death.
+
+[[Inspect your Journalist Pass]]
+[[Look Around]]
+
+
+:: Kill him {"position":"500,7725","size":"100,100"}
+(text-style:"rumble")[BANG]. 
+
+You pull the trigger. The old man falls to the ground. You've hit his face with one shot. It's the first time you've killed someone. You don't know how to feel about it, but the fact that it was in self-defense helps you cope somewhat.
+
+As you check the room lots of photos of Francisco Franco, the old Spanish dictator, are hanged on the walls. Victor's machine has some military badges and a moustache drawed with marker. It seems like the old man dressed him up to look like Franco after a bizzarre mental breakdown.
+
+[[Go talk with the inventor]]
+
+
+:: Kill him. {"position":"250,7700","size":"100,100"}
+(text-style:"rumble")[BANG]. 
+
+You pull the trigger. The old man falls to the ground. You've hit his face with one shot. It's the first time you've killed someone and you don't know how to feel about it.
+
+As you check the room lots of photos of Francisco Franco, the old Spanish dictator, are hanged on the walls. Victor's machine has some military badges and a moustache drawed with marker. It seems like the old man dressed him up to look like Franco after a bizzarre mental breakdown.
+
+[[Go talk with the inventor.]]
+
+
+:: Knock on the door {"position":"975,11000","size":"100,100"}
+No response.
+
+[[Try to kick the door open]]
+
+
+:: Let him go {"position":"775,9475","size":"100,100"}
+You let the diplomat go back to his side of Barcelona. He'll probably inform his higher ups of what happened here. ''War'' is an inevitability.
+
+What should you do now?
+
+[[Go tell Guillermo Morris about this]]
+[[Continue with your investigation before things get worse]]
+
+
+:: Let the diplomat go {"position":"1225,9425","size":"100,100"}
+You let the diplomat go back to his side of Barcelona. He'll probably inform his higher ups of what happened here. ''War'' is an inevitability.
+
+[[Go tell Guillermo Morris about this]]
+[[Continue with your investigation before things get worse]]
+
+
+:: Let's check up on the catalanist inventor {"position":"750,5775","size":"100,100"}
+As you're begin to follow the map to the inventor's house on foot, you hear someone call you out from behind.
+-"Excuse me, sir! The President sent me, he said to tell you that, if you want to go to the inventors house we can provide you transport if you want. You could also walk if you want". 
+He's clearly a worker from the Republican government.
+
+[[Go on foot]]
+[["If you could bring be there with a car I'd appreciate it"]]
+
+
+:: Let's see what the anarchists are up to {"position":"950,5775","size":"100,100"}
+You go to the north, heading to the //Anarchist ''Fac''ultades//. As you get closer to the spot marked on the map, you realise that the streets are progressively getting dirtier and dirtier. Some buildings look completely fine, except for a bit of graffitti, but others look completely abandoned, with broken windows and broken down facades. 
+
+You also notice that the people on the street, which previously were a diverse spectum of people of all ages, suddenly has mostly young-looking folk. These people look really young, most of them not older than 25.
+
+You look down on the map and realise you've reached the building marked on the map. It looks like an abandoned hotel, and a pretty luxurious one at that. The original letters of the hotel have been torn down, and a new sign is now in its place, reading "Sindicato FAC"
+
+[[Enter the hotel]]
+
+
+:: Listen to the man in a black suit {"position":"800,1825","size":"100,100"}
+From inside the car, sound outside is a bit muffled, but you can still make out what they're saying pretty clearly.
+
+-"Hello, sir. I'm terribly sorry, but you wouldn't happen to have change on you, would you?", one of the two men says politely but ominously
+
+-"Hold on, comrade, let me check really quick.". After saying this, Akinola stops using the car jack and reaches for his wallet. As he is about to open it, you hear a loud... 
+
+(text-style:"rumble")[''BANG'']
+
+[[Try to get a better view of what just happened]]
+[[Try to hide]]
+
+
+:: Listen to the woman on the screen {"position":"1300,10650","size":"100,100"}
+You look at the giant screen to your left. A woman wearing business attire is talking to the camera, and behind her nothing except a white uniform background. On the left corner of the screen there's a textbox that reads 'Nancy Dinn, CEO of the Dinn Iberian Company'. This is a recording, she's repeating the same phrase over and over again:
+
+-"We've had an issue concerning food inside the Dinn Spanish Resort™.", she says in a very monotone voice. "We have lost contact with our food shipment truck, and cannot currently know how long until another food shipment will arrive. We ask for your pacience and understanding about this external issue that's currently affecting all of us. If you have any questions or wish to ask for compensation, you can visit the Customer Service building for more information. Thank you. We hope you have a great time at Dinn Spanish Resort™, the home of the true Spanish vacation experience."
+
+After this, the video starts from the very top.
+
+[[Look for Brightson in the horde]]
+[[Go to the Grand Hotel]]
+
+
+:: Look Around {"position":"925,725","size":"100,100"}
+You look around the airport. Everything is really quiet, which is to be expected at this time of the night. There's very few people in the airport, and most of the planes boarding people aren't even at half capacity. 
+
+You notice a giant neon-green clock on one of the walls, it seems to have accurate time and date: ''February 3rd, 1999'', at 3:09 am. 
+
+While you're focused on the clock, you hear someone calling out your name from in front of you.
+
+[[Look at whoever is calling out for you]]
+
+
+:: Look around {"position":"850,2200","size":"100,100"}
+You see the two men have left, and their car is off in the distance, far enough so that they won't be able to see you if you get out. 
+
+A large cannister filled with gasoline has four bullet holes, and you assume it's gonna blow up not long from now.
+
+[[Stay in the car]]
+[[Get out of the car and run]]
+
+
+:: Look around the room {"position":"1050,11375","size":"100,100"}
+You look around the room trying to find anything that could point to a possible reason behind the murder of Akinola. You undo the beds, look in the closets, and ravage through the drawers looking for evidence. In one of the drawers, you finally find something: a CIA Report to the central office.
+
+You read the report, looking for anything that could be incriminating. In short, the CIA Report mentions the Estado Español government having discovered a nuclear bomb in their premises, more specifically in an abandoned war room in Barcelona. The Nationalists plan on bombing the Republican side and taking over the rest of Republican Spain. The americans would call this an unilateral action and dodge part of the blame for allowing them to drop a bomb on civilians. The document states that spreading of this information should be stopped whatever it takes.
+
+[["Shit."]]
+
+
+:: Look around the study {"position":"700,10475","size":"100,100"}
+You see a lot of drawers and closets, and on top of the desk, a closed book.
+
+[[Inspect the book]]
+[[Inspect the drawers]]
+[[Inspect the closets]]
+
+
+:: Look at whoever is calling out for you {"position":"800,825","size":"100,100"}
+A relatively short black man with a beard and completely shaved head talks to you:
+"Excuse me? Are you Neil Crowley?"
+
+[[Yep, that's me]]
+
+
+:: Look for Brightson in the horde {"position":"1300,10775","size":"100,100"}
+You try to find Brightson amongst the horde of shouting people. You see families screaming hysterically. Some of the park staff try to calm them down, while some the workers join the horde of people and start shouting along side them.
+
+You see all of this happen, and yet Brightson is nowhere to be seen.
+
+[[Listen to the woman on the screen]]
+[[Go to the Grand Hotel]]
+
+
+:: Proceed {"position":"850,5150","size":"100,100"}
+-"But, I digress- if you were to investigate the death of Akinola as a journalist, you wouldn't generate a lot of unwanted attention, and you could help bring the people who killed him into the hands of justice. What do you say?"
+
+[[That sounds good.]]
+[[Fine, but I'll do it for Akinola, not for you]]
+[[Fine, but I'll do it for myself, not for you]]
+
+
+:: Proceed with the tests {"position":"1000,3650","size":"100,100"}
+You pass all of the physical tests, and the doctor gives you a map with the location of the //Palacio del Pueblo// marked on it. You can walk normally, but your body hurts quite a bit. It's kind of surprising that you haven't died or lost any important body parts with that explosion. 
+
+But questions about the explosion can wait right now. Why would the //President of the Republic// want to speak to you directly?
+
+[[Go meet to the Palacio del Pueblo]]
+
+
+:: Proceed. {"position":"975,9075","size":"100,100"}
+Everyone nods in agreement. The fascist diplomat begins to talk again:
+
+-"The newsperson is neutral, I presume?"
+
+[["Yep, completely neutral."]]
+[["Neutral? I'm the communistiest communist to ever communize!"]]
+[["No! I'm actually a fascist! White power and all that stuff. "]]
+
+
+:: Put your ear on the door {"position":"1150,11000","size":"100,100"}
+You don't hear anyone inside.
+
+[[Try to kick the door open]]
+
+
+:: Reach for the gun {"position":"800,13075","size":"100,100"}
+30 seconds until launch.
+
+-"Come on, Crowley drop the gun. This is your destiny", he holds out his hand. "if you simply give up and assume this has to happen, you'll be able to get back on a plane to London."
+
+[[Shoot the launch machine]]
+[[Shoot General Miller]]
+[[Do nothing, let the launch happen.]]
+
+
+:: Read the record {"position":"700,11025","size":"100,100"}
+The record reads the following:
+
+-"Today, we've sent four of our men to the abandoned war room of el Águila to bless the bomb that will finally bring an end to the sodomy and perversion of communism.", the address of the war room is written in small letter next to this paragraph.
+
+The record continues: "Blessed be Paco Miller for uncovering this bomb, and may it lead to victory over the satanic republicans."
+
+[[Continue reading]]
+
+
+:: Shoot General Miller {"position":"650,13075","size":"100,100"}
+You shoot general Francisco Miller in the head, and he collapses to the ground.
+
+[[Shoot the launch machine]]
+[[Do nothing, let the launch happen.]]
+
+
+:: Shoot the fascist in the back {"position":"825,9325","size":"100,100"}
+You shoot the fascist diplomat in the back, and you see how he hits the ground, dead.
+
+[[Continue.]]
+
+
+:: Shoot the launch machine {"position":"800,13250","size":"100,100"}
+Your finger is about the press the trigger, but before you do, you feel like you should say some cool final words.
+
+[["I'd rather die standing than live kneeling."]]
+[["This is for Akinola."]]
+[["Never pay more than 20 bucks for a computer game."]]
+
+
+:: Shoot the man in the head {"position":"950,7675","size":"100,100"}
+You shoot the man in the head. He falls to the ground, completely dead.
+
+You look up, body shaking from the inrush of adrenaline, and you realise that it's over. The escorters are all wounded in the ground, with only one of them dead: the one you shot. One of the anarchist gets inside the truck and shouts a victory screech, which is then followed by all of the other anarchists.
+
+[[Inform Grandfather Alan]]
+
+
+:: Shoot the man in the leg {"position":"800,7675","size":"100,100"}
+You shoot the man in the leg. He falls to the ground as he screams in pain, unable to do anything but squirm.
+
+You look up, body shaking from the inrush of adrenaline, and you realise that it's over. The escorters are all wounded in the ground, with not one of them dead. One of the anarchist gets inside the truck and shouts a victory screech, which is then followed by all of the other anarchists.
+
+[[Inform Grandfather Alan]]
+
+
+:: Shoot the republican in the back {"position":"1100,9325","size":"100,100"}
+You shoot the republican diplomat in the back, and you see how he hits the ground, dead.
+
+[[Continue.]]
+
+
+:: Skim through the pages {"position":"700,10875","size":"100,100"}
+You skim through the pages, looking for any mention of Akinola, the men in suits, or anything that could have led to his murder.
+
+You read an interesting record from a week ago.
+
+[[Read the record]]
+
+
+:: Stay hidden {"position":"700,2200","size":"100,100"}
+You hear... ''nothing''. There's complete silence.
+
+[[Get out of the car and run]]
+[[Stay in the car]]
+
+
+:: Stay in the car {"position":"700,2350","size":"100,100"}
+The silence that you previously heard is broken, as you hear the loudest noise you've ever heard. An explosion sends the car flying into the air, with you inside. The car hits the ground, and starts rolling, until eventually one of the doors breaks and you're sent flying away from the car.
+
+You hit the ground, and try to keep yourself together, but the only thing you can manage to do is...
+
+[[Fall unconcious]]
+
+
+:: Take the gun and the localizer. {"position":"675,6875","size":"100,100"}
+-"Ok, you're ready. Because of my work with the automatons, my house is directly connected to the sewers. It makes it easier to recolect the data from the robots." 
+
+[[Go down the ladder]]
+
+
+:: That makes sense, I guess. {"position":"1125,4400","size":"100,100"}
+-"Great. Now are you wondering why I brought you here or not?"
+
+[[Yes. Why?]]
+
+
+:: That sounds good. {"position":"725,5300","size":"100,100"}
+-"Excellent! Here's a map with the locations of the two suspects. The mark up north is the //FACC//, the Anarchist breeding ground, and the mark down south is the home of //Víctor Mora//, the catalanist inventor. Well, that's it for now, you can go now, Neil." he gestures you to leave the room, and as you're about to leave, he suddenly remembers something.
+
+-"Oh! I almost forgot! You should pass by here at around 16:00. Not only to share your discoveries with me, but also to see the start of the celebrations of the 45th anniversary of the Split! I'm sure it would work pretty nicely with your report." 
+
+[[Get out of the Palacio del Pueblo]]
+
+
+:: The Start {"position":"800,400","size":"100,100"}
+You're sitting at a seat in an airport. You're pretty tired, even if you've only been in a plane for 2 hours, the incessant amount of tests and paperwork that've been necessary for you to be here have left you completely exhausted.
+
+[["I'm finally here."]]
+[["I wouldn't be this tired if I had asked to go to do some local work instead"]]
+
+
+
+
+:: Try to get a better view of what just happened {"position":"900,2000","size":"100,100"}
+You're not sure what that sound could have been, so you check to see what made it.
+
+You see Akinola //dead// in the ground with a hole in his head. Next to the now lifeless corpse of your journalist friend is one of the suited men with a gun in his hand. You can make out a faint trail of smoke coming out of the gun's barrel.
+
+[[Try to hide]]
+
+
+:: Try to go through the revolving door {"position":"1225,10250","size":"100,100"}
+The doors don't move. There's a small card reader next to the door. You should probably get one to go through that door.
+
+[[Inspect the recepcionist's desk]]
+
+
+:: Try to hide {"position":"700,2050","size":"100,100"}
+Fearing for the worst, you crouch and try to make yourself as small as possible, so that the men outside don't see or hear you.
+
+You hear a muffled voice coming from the outside:
+
+-"''Brightson'', burn the whole fucking place up and let's hurry the fuck out of here!" one of the two men says, with a nervous tone.
+
+You hear a second shot, then a third shot and a fourth and final one. They've been shooting at one of the gas station's gas cannisters. A few seconds go by, and you hear the loud noise of a car engine as it gets away from you.
+
+[[Stay hidden]]
+[[Look around]]
+
+
+:: Try to kick the door open {"position":"1050,11125","size":"100,100"}
+You kick the door. It doesn't budge, but you keep kicking it with strength until you succeed. The door is now open.
+
+[[Enter room 63]]
+
+
+:: Try to listen the priest's conversation {"position":"550,10250","size":"100,100"}
+You can barely make out what they're saying, but you manage to hear something. It seems like they're arguing about a new rule which prohibits them from eating more than one meal per day. One of the priests belive that it's an absurd idea that will lead to starvation, while the other one is indiferent.
+
+[[Try to sneak into the empty room]]
+
+
+:: Try to open the door {"position":"875,6525","size":"100,100"}
+The door is unlocked. You enter the room, which is filled with everything an antique hotel would have: a bed, bathroom, furniture... In the room's balcony you see a figure sitting on a chair, facing away from you.
+
+[["Hello?"]]
+
+
+:: Try to sneak into the empty room {"position":"700,10350","size":"100,100"}
+You sneak into the empty room. It looks like the study of the head priest.
+
+[[Look around the study]]
+
+
+:: Wait until Miller is done untying you {"position":"800,12900","size":"100,100"}
+You wait until Miller is done untying you, and then you get up.
+
+[["Why are you doing this?"]]
+[[Reach for the gun]]
+
+
+:: Wait until they're closer {"position":"875,7550","size":"100,100"}
+You, and the anarquists around you, wait until the cars and the truck are closer, and then...
+People start jumping in front of the car, forcing it to stop. The truck collides with the car in the front, and the car in the back collides with the truck. Among the caos of the collision, the few anarchists with guns start shooting the wheels of the vehicle, while the ones without ranged weapons throw rocks and other blunt objects at them.
+
+Out of each car, 4 strong-looking men emerge, trying to stop the anarchist's attack. Most of the escorters are trying to fight off the anarchists, but suddenly, you realise one of them is pointing a gun at you.
+
+[[Shoot the man in the leg]]
+[[Shoot the man in the head]]
+
+
+:: Walk into the building saying "Hello gentlemen". {"position":"925,11900","size":"100,100"}
+You try to get past the two soldiers and into the building, but both of them stop you before you can even step a foot in there.
+
+-"What do you think you're doing, asshole?", one of the soldiers says, "Get out of my sight before I shoot your brains out!".
+
+You see as the eyes of the two soliders move away from you and focus on something behind you. Before you have time to react, you feel an immense pain on the back of your head.
+
+[[Fall unconcious... Again.]]
+
+
+
+
+:: Walk to Victor's house {"position":"675,6150","size":"100,100"}
+You approach what should be Victor's house. The door's number is 6, and you notice a mailbox with the name 'Victor Mora' on it. You know that you are in the right place. 
+
+You knock the door. There's no response, but you notice something lights up on the door. A small camera. A weakly voice says "Who are you? What do you want?", 
+
+[["I'm a journalist, I'm doing a report."]]
+[["My Name is Neil Crowley, I'm a friend of Akinola"]]
+
+
+:: What is this feeling? {"position":"800,13525","size":"100,100"}
+Nonexistance.
+
+[[...]]
+
+
+:: What's making that noise? {"position":"1250,10125","size":"100,100"}
+You look at the revolving doors that connect the check-in with the park. From behind those doors, you notice the noise is actually people shouting. Looks like something big has happened. Big enough to make the workers at the entrance go help inside the park.
+
+[[Try to go through the revolving door]]
+
+
+:: Yep, that's me {"position":"800,950","size":"100,100"}
+"Nice to finally meet you in person, Neil. I'm  //Akinola//., he says shily. He's clearly very nervous to finally meet you in person after all this time talking to you exclusively on the radiophone.
+
+"Let's go to my car, we can talk on the way to my apartment"
+
+[[Follow Akinola to his car]]
+
+
+:: Yes. Why? {"position":"900,4400","size":"100,100"}
+-"It's pretty clear that //Akinola// was murdered. The question is, by who? Oh... Sorry for your loss by the way", he says. He looks like he really feels sorry, but he won't let emotions make him lose his train of thought. "Anyways, When do good journalists, like Akinola, get murdered?"
+
+[["When they're being inefficient?]]
+[["When they find out stuff they shouldn't?"]]
+[["When they get the tire on their car punctured?]]
+[["When they do bad reporting?"]]
